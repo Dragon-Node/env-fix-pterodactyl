@@ -10,6 +10,6 @@ sh ./fix.sh
 # Bugs or errors?
 Go to the Issues tab, I go to fix it
 
-# Cliam
+# Claim
 THIS IS NOT OFFICIAL FROM PTERODACTYL
 Maked by FlyingDragon#4491
