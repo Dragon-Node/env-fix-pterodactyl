@@ -26,3 +26,4 @@ clear
 echo 'Done! We are finishing the script'
 chown -R www-data:www-data /var/www/pterodactyl/*
 sudo systemctl enable --now redis-server
+exit
